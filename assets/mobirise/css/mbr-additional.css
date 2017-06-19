@@ -413,12 +413,20 @@ h6,
 }
 #header1-1 .mbr-section-title {
   font-size: 72px;
+  text-align: left;
 }
 #header1-1 .mbr-section-lead {
-  font-size: 48px;
+  font-size: 24px;
+  text-align: left;
 }
 #header1-1 .mbr-section-lead SPAN {
-  font-size: 48px;
+  font-size: 46px;
+}
+#form1-e .form-control-label {
+  color: #232323;
+}
+#form1-e SMALL {
+  font-size: 24px;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;

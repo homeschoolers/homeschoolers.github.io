@@ -22,8 +22,10 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 16,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -41,20 +43,22 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "72px"
+              "font-size": "72px",
+              "text-align": "left"
             },
             ".mbr-section-lead": {
-              "font-size": "48px"
+              "font-size": "24px",
+              "text-align": "left"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "48px"
+              "font-size": "46px"
             }
           },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": false,
+            "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/luca-bravo-2000x1333.jpg",
             "bgColor": "#f3c649",
             "bgColorRadio": true,
@@ -68,10 +72,10 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "Homeschooler.solutions",
-          "text": "<span style=\"line-height: 1.5;\">Support services for home educators.</span><span style=\"line-height: 1.5;\"><br></span>Please Choose.",
+          "text": "<span style=\"line-height: 1.5;\">Support services for home eductators.&nbsp;</span><br>I have a masters degree in Special Education with three certifications. I also have ten+ years experience as a home educator to my children, both of whom have struggled with learning disabilities.&nbsp;I can help you with cirriculum selection, portfolio reviews, special needs cildren (Home IEP's), overcoming problem subjects, and more. <br><br>Click the arrow below to setup a free 15 minute phone consultation. I would love to give you some encouragement. Thank you! :-)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ARE YOU CURRENTLY HOMSECHOOLING?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">OR, THINKING ABOUT HOMESCHOOLING?</a>"
         },
         {
@@ -90,6 +94,66 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-e",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT ME",
+          "subtitle": "Use <a href=\"https://www.facebook.com/messages/t/melodys1/\" target=\"_blank\">this link</a> to connect with me on Facebook messenger, or use the form below to email me.&nbsp;",
+          "form": {
+            "action": "melodioussizemore@gmail.com",
+            "alerts": {
+              "success": "I will get back to you as soon as possible. Usually within half an hour during normal business hours. Thank you!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone (optional)"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-size": "24px"
+            }
+          }
         }
       ]
     },
