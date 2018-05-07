@@ -411,7 +411,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #header1-1 .mbr-section-title {
   font-size: 72px;
@@ -569,4 +569,19 @@ h6,
 }
 #header2-7 .mbr-section-title {
   font-size: 32px;
+}
+#pricing-table1-i .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-i .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#pricing-table1-i .mbr-plan-title {
+  font-size: 16px;
+}
+#header5-k .mbr-section-title {
+  color: #000;
+}
+#header5-k .mbr-section-lead {
+  color: #9c9a9a;
 }
