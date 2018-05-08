@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "portfolios.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -446,9 +446,73 @@
         }
       ]
     },
-    "page3.html": {
+    "page4.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "Web Page Maker Description",
+        "title": "Portfolio Uploads",
+        "order": 1
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright Homeschooler.solutinos (c) 2017&nbsp;",
+          "_anchor": "footer1-j"
+        },
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Portfolio Upload Instructions",
+          "text": "If possible scan images and place them in a zipped or other archive file type. Use the Dropbox link below to upload files.<br><br>If an archived file isn't an option, email all scanned images to melodioussizemore@gmail.com instead.<br><br>If you have any questions please call 304.993.4989.&nbsp;<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.dropbox.com/request/hZXo4iovV2RhhLFgEcYI\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UPLOAD NOW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-k"
+        }
+      ]
+    },
+    "portfolios.html": {
+      "settings": {
+        "meta_descr": "Digital Portfolio Reviews",
         "title": "Digital Portfolio Reviews",
         "order": 2
       },
@@ -539,7 +603,7 @@
           "list2": "The link below will take you to Paypal. After payment you will get an upload link for your files.&nbsp;",
           "list3": "The link below will take you to Paypal. After payment you will get an upload link for your files.&nbsp;<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
           "list4": "The link below will take you to Paypal. After payment you will get an upload link for your files.&nbsp;<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">UPLOAD</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/xoonboarding?token=20231585YB456503N&amp;useraction=commit&amp;rm=1&amp;mfid=1525738512895_7780a113688aa&amp;country.x=US&amp;locale.x=en_US&amp;country.x=US&amp;locale.x=en_US#/checkout/guest\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">UPLOAD</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">UPLOAD</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">UPLOAD</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">UPLOAD</a>",
@@ -548,70 +612,6 @@
           ],
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-i"
-        }
-      ]
-    },
-    "page4.html": {
-      "settings": {
-        "meta_descr": "Web Page Maker Description",
-        "title": "Portfolio Uploads",
-        "order": 1
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright Homeschooler.solutinos (c) 2017&nbsp;",
-          "_anchor": "footer1-j"
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "left",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "Portfolio Upload Instructions",
-          "text": "If possible scan images and place them in a zipped or other archive file type. Use the Dropbox link below to upload files.<br><br>If an archived file isn't an option, email all scanned images to melodioussizemore@gmail.com instead.<br><br>If you have any questions please call 304.993.4989.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.dropbox.com/request/hZXo4iovV2RhhLFgEcYI\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UPLOAD NOW</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-k"
         }
       ]
     }

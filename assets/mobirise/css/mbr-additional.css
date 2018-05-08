@@ -570,6 +570,12 @@ h6,
 #header2-7 .mbr-section-title {
   font-size: 32px;
 }
+#header5-k .mbr-section-title {
+  color: #000;
+}
+#header5-k .mbr-section-lead {
+  color: #9c9a9a;
+}
 #pricing-table1-i .mbr-section__container .mbr-section-title {
   color: #fff;
 }
@@ -578,10 +584,4 @@ h6,
 }
 #pricing-table1-i .mbr-plan-title {
   font-size: 16px;
-}
-#header5-k .mbr-section-title {
-  color: #000;
-}
-#header5-k .mbr-section-lead {
-  color: #9c9a9a;
 }
