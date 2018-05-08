@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "portfolios.html",
+    "currentPage": "portfolio-uploads.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "4.7.2",
     "favicon": "",
     "noImageResize": "",
@@ -446,7 +446,197 @@
         }
       ]
     },
-    "page4.html": {
+    "portfolios.html": {
+      "settings": {
+        "meta_descr": "Digital Portfolio Reviews",
+        "title": "Digital Portfolio Reviews",
+        "order": 2
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright Homeschooler.solutinos (c) 2017&nbsp;",
+          "_anchor": "footer1-h"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-plan-title": {
+              "font-size": "16px"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "STUDENT PORTFLIO PRICING",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "SINGLE STUDENT PORTFOLIO",
+          "title2": "TWO STUDENT PORTFOLIOS",
+          "title3": "THREE STUDENT PORTFOLIOS",
+          "title4": "FOUR STUDENT PORTFOLIOS",
+          "subtitle1": "",
+          "subtitle2": "",
+          "subtitle3": "",
+          "subtitle4": "",
+          "label1": "HOT!",
+          "label2": "",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "35",
+          "price2": "60",
+          "price3": "85",
+          "price4": "110",
+          "period1": "",
+          "period2": "",
+          "period3": "",
+          "period4": "",
+          "description1": "",
+          "description2": "",
+          "description3": "",
+          "description4": "",
+          "list1": "<p>Use your personal Paypal Account to pay, or click Checkout as Guest.</p>",
+          "list2": "Use your personal Paypal Account to pay, or click Checkout as Guest.",
+          "list3": "Use your personal Paypal Account to pay, or click Checkout as Guest.<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "list4": "Use your personal Paypal Account to pay, or click Checkout as Guest.<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HP5YGH7LM8UTJ\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PAYPAL CHECKOUT</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=UFEJSTQYRRGDE\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PAYPAL CHECKOUT</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=C54CG3FJG49ZE\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PAYPAL CHECKOUT</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Q9MAR8APDW958\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PAYPAL CHECKOUT</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-i"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            "DIV": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "firstType": "",
+            "secondType": "hidden",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRICING TABLE",
+          "subtitle": "Pricing table with four columns and solid color background.",
+          "title1": "FIVE STUDENT PORTFOLIO REVIEWS",
+          "title2": "BUSINESS",
+          "title3": "PREMIUM",
+          "title4": "ULTIMATE",
+          "subtitle1": "",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "$",
+          "price1": "150",
+          "price2": "0",
+          "price3": "0",
+          "price4": "0",
+          "period1": "",
+          "period2": "/mo.",
+          "period3": "/mo.",
+          "period4": "/mo.",
+          "description1": "",
+          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "Use your personal Paypal Account to pay, or click Checkout as Guest.",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">PAYPAL CHECKOUT</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-l"
+        }
+      ]
+    },
+    "portfolio-uploads.html": {
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Portfolio Uploads",
@@ -507,111 +697,6 @@
           ],
           "_name": "header5",
           "_anchor": "header5-k"
-        }
-      ]
-    },
-    "portfolios.html": {
-      "settings": {
-        "meta_descr": "Digital Portfolio Reviews",
-        "title": "Digital Portfolio Reviews",
-        "order": 2
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright Homeschooler.solutinos (c) 2017&nbsp;",
-          "_anchor": "footer1-h"
-        },
-        {
-          "_styles": {
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            },
-            ".mbr-plan-title": {
-              "font-size": "16px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": false,
-            "firstType": "",
-            "secondType": "",
-            "thirdType": "",
-            "fourthType": "",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#28324e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "STUDENT PORTFLIO PRICING",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "title1": "SINGLE STUDENT PORTFOLIO",
-          "title2": "TWO STUDENT PORTFOLIOS",
-          "title3": "THREE STUDENT PORTFOLIOS",
-          "title4": "FOUR STUDENT PORTFOLIOS",
-          "subtitle1": "",
-          "subtitle2": "",
-          "subtitle3": "",
-          "subtitle4": "",
-          "label1": "HOT!",
-          "label2": "",
-          "label3": "HOT!",
-          "label4": "HOT!",
-          "currency1": "$",
-          "currency2": "$",
-          "currency3": "$",
-          "currency4": "$",
-          "price1": "35",
-          "price2": "60",
-          "price3": "85",
-          "price4": "110",
-          "period1": "",
-          "period2": "",
-          "period3": "",
-          "period4": "",
-          "description1": "",
-          "description2": "",
-          "description3": "",
-          "description4": "",
-          "list1": "The link below will take you to Paypal. After payment you will get an upload link for your files.&nbsp;",
-          "list2": "The link below will take you to Paypal. After payment you will get an upload link for your files.&nbsp;",
-          "list3": "The link below will take you to Paypal. After payment you will get an upload link for your files.&nbsp;<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
-          "list4": "The link below will take you to Paypal. After payment you will get an upload link for your files.&nbsp;<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/webapps/xoonboarding?token=20231585YB456503N&amp;useraction=commit&amp;rm=1&amp;mfid=1525738512895_7780a113688aa&amp;country.x=US&amp;locale.x=en_US&amp;country.x=US&amp;locale.x=en_US#/checkout/guest\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">UPLOAD</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">UPLOAD</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">UPLOAD</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">UPLOAD</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-i"
         }
       ]
     }
