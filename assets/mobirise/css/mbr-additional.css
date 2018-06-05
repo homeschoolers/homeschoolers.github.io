@@ -574,7 +574,9 @@ h6,
   color: #fff;
 }
 #pricing-table1-i .mbr-section__container .mbr-section-subtitle {
-  color: #a0a0a0;
+  color: #efefef;
+  font-size: 25px;
+  text-align: left;
 }
 #pricing-table1-i .mbr-plan-title {
   font-size: 16px;
