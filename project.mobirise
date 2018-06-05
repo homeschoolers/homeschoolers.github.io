@@ -478,7 +478,9 @@
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#efefef",
               "font-size": "25px",
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-plan-title": {
               "font-size": "16px"
