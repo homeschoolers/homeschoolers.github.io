@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "portfolios.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -515,7 +515,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "YOU ARE THREE STEPS AWAY<br>FROM EASIEST PORTFOLIO <br>REVIEW EVER!&nbsp;<br><br>",
+          "title": "YOU ARE THREE STEPS AWAY<br>FROM THE EASIEST PORTFOLIO <br>REVIEW EVER!&nbsp;<br><br>",
           "subtitle": "STEP 1: Choose the number of students below.<br>STEP 2: Checkout using Paypal.<br>STEP 3: After payment you will be immediately directed to this <a href=\"portfolio-uploads.html\">Upload</a> page.&nbsp;<br>That's it! Turnaround time is 24-48 hours!",
           "title1": "SINGLE STUDENT PORTFOLIO",
           "title2": "TWO STUDENT PORTFOLIOS",
